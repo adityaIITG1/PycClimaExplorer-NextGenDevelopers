@@ -65,17 +65,18 @@ Detailed analysis of intensity cells and global mean trends across the temporal 
 
 ---
 
-## 🛠️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd Py-Climax
-
-2. python -m venv venv
-.\venv\Scripts\activate 
+## ⚙️ Installation & Local Setup
+### 1. Prerequisites
+Ensure you have Python 3.9+ installed and a virtual environment tool like `venv` or `conda`.
+### 2. Quick Start
+```bash
+# Clone the repository
+git clone <repository-url>
+cd Py-Climax
+# Setup environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+# Install dependencies
 pip install -r requirements.txt
-
-
-3. streamlit run app.py
-
+# Run the platform
+streamlit run app.py
