@@ -71,3 +71,11 @@ Detailed analysis of intensity cells and global mean trends across the temporal 
    ```bash
    git clone <repository-url>
    cd Py-Climax
+
+2. python -m venv venv
+.\venv\Scripts\activate 
+pip install -r requirements.txt
+
+
+3. streamlit run app.py
+
