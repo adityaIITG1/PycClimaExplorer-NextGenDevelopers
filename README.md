@@ -22,8 +22,11 @@
 
 ## 📺 Platform Prototype Demo
 
-<video src="DEMO VIDEO-PROTOTYPE.mp4" width="900" controls style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-  Your browser does not support the video tag.
+<video width="900" controls style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <source src="DEMO VIDEO-PROTOTYPE.mp4" type="video/mp4">
+  Your browser does not support the video tag. 
+  <br>
+  <a href="https://youtu.be/ajrCQpAJ00Q"><b>👉 Watch the Demo on YouTube instead</b></a>
 </video>
 
 </div>
