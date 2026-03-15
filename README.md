@@ -18,6 +18,18 @@
 
 ---
 
+<div align="center">
+
+## 📺 Platform Prototype Demo
+
+<video src="DEMO VIDEO-PROTOTYPE.mp4" width="900" controls style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  Your browser does not support the video tag.
+</video>
+
+</div>
+
+---
+
 ## 📖 Overview
 
 **PyClimaExplorer** is a cutting-edge, rapid-prototype interactive visualizer designed to turn raw atmospheric numbers into a compelling story about our changing planet. Born out of the **Technex '26 Hackathon**, this platform provides an intuitive interface to slice, dice, and visualize complex multi-dimensional climate data in real-time.
